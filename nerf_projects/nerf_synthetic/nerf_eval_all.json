@@ -1,0 +1,643 @@
+{
+  "chair": {
+    "E0_C0_I0_P0": {
+      "run_dir": "/home/flx/nerf_projects/nerf_synthetic/chair/E0_C0_I0_P0/chair/nerfacto/2025-12-10_055041",
+      "metrics": {
+        "degraded": {
+          "experiment_name": "chair",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/chair/E0_C0_I0_P0/chair/nerfacto/2025-12-10_055041/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 21.874067306518555,
+            "psnr_std": 2.365241765975952,
+            "ssim": 0.854786217212677,
+            "ssim_std": 0.0533343143761158,
+            "lpips": 0.1062198281288147,
+            "lpips_std": 0.02203204855322838,
+            "num_rays_per_sec": 615148.4375,
+            "num_rays_per_sec_std": 128398.6796875,
+            "fps": 0.961169421672821,
+            "fps_std": 0.20062294602394104
+          }
+        },
+        "clean": {
+          "experiment_name": "chair",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/chair/E0_C0_I0_P0/chair/nerfacto/2025-12-10_055041/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 21.874067306518555,
+            "psnr_std": 2.365241765975952,
+            "ssim": 0.854786217212677,
+            "ssim_std": 0.0533343143761158,
+            "lpips": 0.1062198281288147,
+            "lpips_std": 0.02203204855322838,
+            "num_rays_per_sec": 599765.8125,
+            "num_rays_per_sec_std": 133180.046875,
+            "fps": 0.9371340870857239,
+            "fps_std": 0.2080938220024109
+          }
+        }
+      }
+    },
+    "E1_C1_I0_P0": {
+      "run_dir": "/home/flx/nerf_projects/nerf_synthetic/chair/E1_C1_I0_P0/chair/nerfacto/2025-12-10_065410",
+      "metrics": {
+        "degraded": {
+          "experiment_name": "chair",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/chair/E1_C1_I0_P0/chair/nerfacto/2025-12-10_065410/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 21.798246383666992,
+            "psnr_std": 2.1546471118927,
+            "ssim": 0.853687047958374,
+            "ssim_std": 0.05013304948806763,
+            "lpips": 0.10444078594446182,
+            "lpips_std": 0.018884332850575447,
+            "num_rays_per_sec": 646959.875,
+            "num_rays_per_sec_std": 99085.6484375,
+            "fps": 1.0108747482299805,
+            "fps_std": 0.15482132136821747
+          }
+        },
+        "clean": {
+          "experiment_name": "chair",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/chair/E1_C1_I0_P0/chair/nerfacto/2025-12-10_065410/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 21.798246383666992,
+            "psnr_std": 2.1546471118927,
+            "ssim": 0.853687047958374,
+            "ssim_std": 0.05013304948806763,
+            "lpips": 0.10444078594446182,
+            "lpips_std": 0.018884332850575447,
+            "num_rays_per_sec": 595197.6875,
+            "num_rays_per_sec_std": 109681.75,
+            "fps": 0.9299963712692261,
+            "fps_std": 0.1713777333498001
+          }
+        }
+      }
+    },
+    "E2_C2_I0_P0": {
+      "run_dir": "/home/flx/nerf_projects/nerf_synthetic/chair/E2_C2_I0_P0/chair/nerfacto/2025-12-10_070415",
+      "metrics": {
+        "degraded": {
+          "experiment_name": "chair",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/chair/E2_C2_I0_P0/chair/nerfacto/2025-12-10_070415/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 24.396699905395508,
+            "psnr_std": 2.206667900085449,
+            "ssim": 0.8889445066452026,
+            "ssim_std": 0.04874798655509949,
+            "lpips": 0.09537412971258163,
+            "lpips_std": 0.020209617912769318,
+            "num_rays_per_sec": 642564.75,
+            "num_rays_per_sec_std": 97072.7421875,
+            "fps": 1.0040074586868286,
+            "fps_std": 0.15167614817619324
+          }
+        },
+        "clean": {
+          "experiment_name": "chair",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/chair/E2_C2_I0_P0/chair/nerfacto/2025-12-10_070415/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 24.396699905395508,
+            "psnr_std": 2.206667900085449,
+            "ssim": 0.8889445066452026,
+            "ssim_std": 0.04874798655509949,
+            "lpips": 0.09537412971258163,
+            "lpips_std": 0.020209617912769318,
+            "num_rays_per_sec": 594623.3125,
+            "num_rays_per_sec_std": 112889.4921875,
+            "fps": 0.9290989637374878,
+            "fps_std": 0.17638984322547913
+          }
+        }
+      }
+    },
+    "E3_C0_I1_P0": {
+      "run_dir": "/home/flx/nerf_projects/nerf_synthetic/chair/E3_C0_I1_P0/chair/nerfacto/2025-12-10_071359",
+      "metrics": {
+        "degraded": {
+          "experiment_name": "chair",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/chair/E3_C0_I1_P0/chair/nerfacto/2025-12-10_071359/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 21.672588348388672,
+            "psnr_std": 1.9574438333511353,
+            "ssim": 0.8543021082878113,
+            "ssim_std": 0.04957299679517746,
+            "lpips": 0.10482186079025269,
+            "lpips_std": 0.023682449012994766,
+            "num_rays_per_sec": 645764.1875,
+            "num_rays_per_sec_std": 99569.75,
+            "fps": 1.0090065002441406,
+            "fps_std": 0.15557773411273956
+          }
+        },
+        "clean": {
+          "experiment_name": "chair",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/chair/E3_C0_I1_P0/chair/nerfacto/2025-12-10_071359/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 21.672588348388672,
+            "psnr_std": 1.9574438333511353,
+            "ssim": 0.8543021082878113,
+            "ssim_std": 0.04957299679517746,
+            "lpips": 0.10482186079025269,
+            "lpips_std": 0.023682449012994766,
+            "num_rays_per_sec": 616965.125,
+            "num_rays_per_sec_std": 103229.8203125,
+            "fps": 0.9640080332756042,
+            "fps_std": 0.16129659116268158
+          }
+        }
+      }
+    },
+    "E4_C0_I2_P0": {
+      "run_dir": "/home/flx/nerf_projects/nerf_synthetic/chair/E4_C0_I2_P0/chair/nerfacto/2025-12-10_072342",
+      "metrics": {
+        "degraded": {
+          "experiment_name": "chair",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/chair/E4_C0_I2_P0/chair/nerfacto/2025-12-10_072342/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 22.6287841796875,
+            "psnr_std": 2.023038625717163,
+            "ssim": 0.8678301572799683,
+            "ssim_std": 0.049896154552698135,
+            "lpips": 0.09587538987398148,
+            "lpips_std": 0.023835906758904457,
+            "num_rays_per_sec": 647282.25,
+            "num_rays_per_sec_std": 94560.625,
+            "fps": 1.0113784074783325,
+            "fps_std": 0.14775097370147705
+          }
+        },
+        "clean": {
+          "experiment_name": "chair",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/chair/E4_C0_I2_P0/chair/nerfacto/2025-12-10_072342/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 22.6287841796875,
+            "psnr_std": 2.023038625717163,
+            "ssim": 0.8678301572799683,
+            "ssim_std": 0.049896154552698135,
+            "lpips": 0.09587538987398148,
+            "lpips_std": 0.023835906758904457,
+            "num_rays_per_sec": 551703.0,
+            "num_rays_per_sec_std": 70963.3515625,
+            "fps": 0.862035870552063,
+            "fps_std": 0.11088024824857712
+          }
+        }
+      }
+    },
+    "E5_C0_I0_P1": {
+      "run_dir": "/home/flx/nerf_projects/nerf_synthetic/chair/E5_C0_I0_P1/chair/nerfacto/2025-12-10_073330",
+      "metrics": {
+        "degraded": {
+          "experiment_name": "chair",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/chair/E5_C0_I0_P1/chair/nerfacto/2025-12-10_073330/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 23.804771423339844,
+            "psnr_std": 1.904650330543518,
+            "ssim": 0.8860033750534058,
+            "ssim_std": 0.039590805768966675,
+            "lpips": 0.09843716770410538,
+            "lpips_std": 0.018457084894180298,
+            "num_rays_per_sec": 641499.375,
+            "num_rays_per_sec_std": 93426.8203125,
+            "fps": 1.002342700958252,
+            "fps_std": 0.1459794044494629
+          }
+        },
+        "clean": {
+          "experiment_name": "chair",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/chair/E5_C0_I0_P1/chair/nerfacto/2025-12-10_073330/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 23.804771423339844,
+            "psnr_std": 1.904650330543518,
+            "ssim": 0.8860033750534058,
+            "ssim_std": 0.039590805768966675,
+            "lpips": 0.09843716770410538,
+            "lpips_std": 0.018457084894180298,
+            "num_rays_per_sec": 551424.9375,
+            "num_rays_per_sec_std": 88089.3125,
+            "fps": 0.8616014122962952,
+            "fps_std": 0.13763953745365143
+          }
+        }
+      }
+    },
+    "E6_C0_I0_P2": {
+      "run_dir": "/home/flx/nerf_projects/nerf_synthetic/chair/E6_C0_I0_P2/chair/nerfacto/2025-12-10_074316",
+      "metrics": {
+        "degraded": {
+          "experiment_name": "chair",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/chair/E6_C0_I0_P2/chair/nerfacto/2025-12-10_074316/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 24.604944229125977,
+            "psnr_std": 3.2002594470977783,
+            "ssim": 0.8968507647514343,
+            "ssim_std": 0.04807322099804878,
+            "lpips": 0.10498146712779999,
+            "lpips_std": 0.03269527107477188,
+            "num_rays_per_sec": 636462.625,
+            "num_rays_per_sec_std": 122774.9375,
+            "fps": 0.994472861289978,
+            "fps_std": 0.19183583557605743
+          }
+        },
+        "clean": {
+          "experiment_name": "chair",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/chair/E6_C0_I0_P2/chair/nerfacto/2025-12-10_074316/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 24.604944229125977,
+            "psnr_std": 3.2002594470977783,
+            "ssim": 0.8968507647514343,
+            "ssim_std": 0.04807322099804878,
+            "lpips": 0.10498146712779999,
+            "lpips_std": 0.03269527107477188,
+            "num_rays_per_sec": 575348.875,
+            "num_rays_per_sec_std": 91937.859375,
+            "fps": 0.8989826440811157,
+            "fps_std": 0.14365290105342865
+          }
+        }
+      }
+    },
+    "E7_C1_I1_P0": {
+      "run_dir": "/home/flx/nerf_projects/nerf_synthetic/chair/E7_C1_I1_P0/chair/nerfacto/2025-12-10_075258",
+      "metrics": {
+        "degraded": {
+          "experiment_name": "chair",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/chair/E7_C1_I1_P0/chair/nerfacto/2025-12-10_075258/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 22.6595458984375,
+            "psnr_std": 1.8936017751693726,
+            "ssim": 0.8648103475570679,
+            "ssim_std": 0.04903755336999893,
+            "lpips": 0.10066527873277664,
+            "lpips_std": 0.022110141813755035,
+            "num_rays_per_sec": 637262.75,
+            "num_rays_per_sec_std": 97947.046875,
+            "fps": 0.9957230687141418,
+            "fps_std": 0.1530422568321228
+          }
+        },
+        "clean": {
+          "experiment_name": "chair",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/chair/E7_C1_I1_P0/chair/nerfacto/2025-12-10_075258/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 22.6595458984375,
+            "psnr_std": 1.8936017751693726,
+            "ssim": 0.8648103475570679,
+            "ssim_std": 0.04903755336999893,
+            "lpips": 0.10066527873277664,
+            "lpips_std": 0.022110141813755035,
+            "num_rays_per_sec": 550724.25,
+            "num_rays_per_sec_std": 78066.75,
+            "fps": 0.8605066537857056,
+            "fps_std": 0.12197930365800858
+          }
+        }
+      }
+    },
+    "E8_C0_I1_P1": {
+      "run_dir": "/home/flx/nerf_projects/nerf_synthetic/chair/E8_C0_I1_P1/chair/nerfacto/2025-12-10_080242",
+      "metrics": {
+        "degraded": {
+          "experiment_name": "chair",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/chair/E8_C0_I1_P1/chair/nerfacto/2025-12-10_080242/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 22.9035587310791,
+            "psnr_std": 2.5226032733917236,
+            "ssim": 0.8674010634422302,
+            "ssim_std": 0.05701661854982376,
+            "lpips": 0.09701363742351532,
+            "lpips_std": 0.023637309670448303,
+            "num_rays_per_sec": 633524.0,
+            "num_rays_per_sec_std": 125513.453125,
+            "fps": 0.9898812174797058,
+            "fps_std": 0.19611476361751556
+          }
+        },
+        "clean": {
+          "experiment_name": "chair",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/chair/E8_C0_I1_P1/chair/nerfacto/2025-12-10_080242/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 22.9035587310791,
+            "psnr_std": 2.5226032733917236,
+            "ssim": 0.8674010634422302,
+            "ssim_std": 0.05701661854982376,
+            "lpips": 0.09701363742351532,
+            "lpips_std": 0.023637309670448303,
+            "num_rays_per_sec": 569568.25,
+            "num_rays_per_sec_std": 77619.578125,
+            "fps": 0.8899503350257874,
+            "fps_std": 0.12128058075904846
+          }
+        }
+      }
+    }
+  },
+  "drums": {
+    "E0_C0_I0_P0": {
+      "run_dir": "/home/flx/nerf_projects/nerf_synthetic/drums/E0_C0_I0_P0/drums/nerfacto/2025-12-10_151640",
+      "metrics": {
+        "degraded": {
+          "experiment_name": "drums",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/drums/E0_C0_I0_P0/drums/nerfacto/2025-12-10_151640/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 19.78849220275879,
+            "psnr_std": 1.4329423904418945,
+            "ssim": 0.8240919709205627,
+            "ssim_std": 0.02857200801372528,
+            "lpips": 0.14642693102359772,
+            "lpips_std": 0.011073584668338299,
+            "num_rays_per_sec": 636760.625,
+            "num_rays_per_sec_std": 92289.25,
+            "fps": 0.9949384331703186,
+            "fps_std": 0.14420194923877716
+          }
+        },
+        "clean": {
+          "experiment_name": "drums",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/drums/E0_C0_I0_P0/drums/nerfacto/2025-12-10_151640/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 19.78849220275879,
+            "psnr_std": 1.4329423904418945,
+            "ssim": 0.8240919709205627,
+            "ssim_std": 0.02857200801372528,
+            "lpips": 0.14642693102359772,
+            "lpips_std": 0.011073584668338299,
+            "num_rays_per_sec": 551272.8125,
+            "num_rays_per_sec_std": 68682.21875,
+            "fps": 0.8613637685775757,
+            "fps_std": 0.10731596499681473
+          }
+        }
+      }
+    },
+    "E1_C1_I0_P0": {
+      "run_dir": "/home/flx/nerf_projects/nerf_synthetic/drums/E1_C1_I0_P0/drums/nerfacto/2025-12-10_152855",
+      "metrics": {
+        "degraded": {
+          "experiment_name": "drums",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/drums/E1_C1_I0_P0/drums/nerfacto/2025-12-10_152855/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 18.033945083618164,
+            "psnr_std": 1.3613970279693604,
+            "ssim": 0.7985965013504028,
+            "ssim_std": 0.029155036434531212,
+            "lpips": 0.1605733186006546,
+            "lpips_std": 0.020510300993919373,
+            "num_rays_per_sec": 633041.125,
+            "num_rays_per_sec_std": 98168.125,
+            "fps": 0.9891267418861389,
+            "fps_std": 0.15338768064975739
+          }
+        },
+        "clean": {
+          "experiment_name": "drums",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/drums/E1_C1_I0_P0/drums/nerfacto/2025-12-10_152855/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 18.033945083618164,
+            "psnr_std": 1.3613970279693604,
+            "ssim": 0.7985965013504028,
+            "ssim_std": 0.029155036434531212,
+            "lpips": 0.1605733186006546,
+            "lpips_std": 0.020510300993919373,
+            "num_rays_per_sec": 504747.5625,
+            "num_rays_per_sec_std": 73776.4765625,
+            "fps": 0.7886680364608765,
+            "fps_std": 0.11527574062347412
+          }
+        }
+      }
+    },
+    "E2_C2_I0_P0": {
+      "run_dir": "/home/flx/nerf_projects/nerf_synthetic/drums/E2_C2_I0_P0/drums/nerfacto/2025-12-10_154026",
+      "metrics": {
+        "degraded": {
+          "experiment_name": "drums",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/drums/E2_C2_I0_P0/drums/nerfacto/2025-12-10_154026/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 19.612993240356445,
+            "psnr_std": 1.142462968826294,
+            "ssim": 0.8223624229431152,
+            "ssim_std": 0.02523443102836609,
+            "lpips": 0.14536486566066742,
+            "lpips_std": 0.010968264192342758,
+            "num_rays_per_sec": 641618.125,
+            "num_rays_per_sec_std": 97512.9296875,
+            "fps": 1.0025283098220825,
+            "fps_std": 0.15236395597457886
+          }
+        },
+        "clean": {
+          "experiment_name": "drums",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/drums/E2_C2_I0_P0/drums/nerfacto/2025-12-10_154026/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 19.612993240356445,
+            "psnr_std": 1.142462968826294,
+            "ssim": 0.8223624229431152,
+            "ssim_std": 0.02523443102836609,
+            "lpips": 0.14536486566066742,
+            "lpips_std": 0.010968264192342758,
+            "num_rays_per_sec": 533450.8125,
+            "num_rays_per_sec_std": 89918.75,
+            "fps": 0.8335168957710266,
+            "fps_std": 0.14049804210662842
+          }
+        }
+      }
+    },
+    "E3_C0_I1_P0": {
+      "run_dir": "/home/flx/nerf_projects/nerf_synthetic/drums/E3_C0_I1_P0/drums/nerfacto/2025-12-10_155227",
+      "metrics": {
+        "degraded": {
+          "experiment_name": "drums",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/drums/E3_C0_I1_P0/drums/nerfacto/2025-12-10_155227/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 19.326738357543945,
+            "psnr_std": 1.1269211769104004,
+            "ssim": 0.818065345287323,
+            "ssim_std": 0.024126464501023293,
+            "lpips": 0.14447174966335297,
+            "lpips_std": 0.014888573437929153,
+            "num_rays_per_sec": 625015.0625,
+            "num_rays_per_sec_std": 96519.625,
+            "fps": 0.9765859842300415,
+            "fps_std": 0.15081191062927246
+          }
+        },
+        "clean": {
+          "experiment_name": "drums",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/drums/E3_C0_I1_P0/drums/nerfacto/2025-12-10_155227/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 19.326738357543945,
+            "psnr_std": 1.1269211769104004,
+            "ssim": 0.818065345287323,
+            "ssim_std": 0.024126464501023293,
+            "lpips": 0.14447174966335297,
+            "lpips_std": 0.014888573437929153,
+            "num_rays_per_sec": 542697.1875,
+            "num_rays_per_sec_std": 73059.5546875,
+            "fps": 0.8479642868041992,
+            "fps_std": 0.11415554583072662
+          }
+        }
+      }
+    },
+    "E4_C0_I2_P0": {
+      "run_dir": "/home/flx/nerf_projects/nerf_synthetic/drums/E4_C0_I2_P0/drums/nerfacto/2025-12-10_194016",
+      "metrics": {
+        "degraded": {
+          "experiment_name": "drums",
+          "method_name": "nerfacto",
+          "checkpoint": "/home/flx/nerf_projects/nerf_synthetic/drums/E4_C0_I2_P0/drums/nerfacto/2025-12-10_194016/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 19.923030853271484,
+            "psnr_std": 1.3159912824630737,
+            "ssim": 0.8315821290016174,
+            "ssim_std": 0.024206049740314484,
+            "lpips": 0.1443975269794464,
+            "lpips_std": 0.01464113686233759,
+            "num_rays_per_sec": 548483.875,
+            "num_rays_per_sec_std": 111651.8046875,
+            "fps": 0.8570060133934021,
+            "fps_std": 0.1744559407234192
+          }
+        },
+        "clean": {
+          "experiment_name": "drums",
+          "method_name": "nerfacto",
+          "checkpoint": "/home/flx/nerf_projects/nerf_synthetic/drums/E4_C0_I2_P0/drums/nerfacto/2025-12-10_194016/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 19.923030853271484,
+            "psnr_std": 1.3159912824630737,
+            "ssim": 0.8315821290016174,
+            "ssim_std": 0.024206049740314484,
+            "lpips": 0.1443975269794464,
+            "lpips_std": 0.01464113686233759,
+            "num_rays_per_sec": 538610.8125,
+            "num_rays_per_sec_std": 61307.38671875,
+            "fps": 0.8415793776512146,
+            "fps_std": 0.09579279273748398
+          }
+        }
+      }
+    },
+    "E7_C1_I1_P0": {
+      "run_dir": "/home/flx/nerf_projects/nerf_synthetic/drums/E7_C1_I1_P0/drums/nerfacto/2025-12-10_160441",
+      "metrics": {
+        "degraded": {
+          "experiment_name": "drums",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/drums/E7_C1_I1_P0/drums/nerfacto/2025-12-10_160441/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 18.974220275878906,
+            "psnr_std": 1.387252926826477,
+            "ssim": 0.8106988072395325,
+            "ssim_std": 0.03368407115340233,
+            "lpips": 0.1483471542596817,
+            "lpips_std": 0.020581714808940887,
+            "num_rays_per_sec": 401642.90625,
+            "num_rays_per_sec_std": 59959.84375,
+            "fps": 0.6275669932365417,
+            "fps_std": 0.09368725121021271
+          }
+        }
+      }
+    },
+    "E8_C0_I1_P1": {
+      "run_dir": "/home/flx/nerf_projects/nerf_synthetic/drums/E8_C0_I1_P1/drums/nerfacto/2025-12-10_161628",
+      "metrics": {
+        "degraded": {
+          "experiment_name": "drums",
+          "method_name": "nerfacto",
+          "checkpoint": "nerf_projects/nerf_synthetic/drums/E8_C0_I1_P1/drums/nerfacto/2025-12-10_161628/nerfstudio_models/step-000019999.ckpt",
+          "results": {
+            "psnr": 19.258098602294922,
+            "psnr_std": 1.7310799360275269,
+            "ssim": 0.8170081973075867,
+            "ssim_std": 0.033718451857566833,
+            "lpips": 0.14513665437698364,
+            "lpips_std": 0.017138201743364334,
+            "num_rays_per_sec": 377646.40625,
+            "num_rays_per_sec_std": 52666.375,
+            "fps": 0.590072512626648,
+            "fps_std": 0.08229120820760727
+          }
+        }
+      }
+    }
+  },
+  "truck": {
+    "T0": {
+      "run_dir": "/home/flx/3dgs/results/truck/T0",
+      "metrics": {
+        "clean": {
+          "experiment_name": "truck",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 9.863,
+            "ssim": 0.377,
+            "lpips": 0.711
+          }
+        }
+      }
+    },
+    "T1": {
+      "run_dir": "/home/flx/3dgs/results/truck/T1",
+      "metrics": {
+        "clean": {
+          "experiment_name": "truck",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 9.567,
+            "ssim": 0.3581,
+            "lpips": 0.7313
+          }
+        }
+      }
+    },
+    "T2": {
+      "run_dir": "/home/flx/3dgs/results/truck/T2",
+      "metrics": {
+        "clean": {
+          "experiment_name": "truck",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 9.793,
+            "ssim": 0.3492,
+            "lpips": 0.7185
+          }
+        }
+      }
+    }
+  }
+}

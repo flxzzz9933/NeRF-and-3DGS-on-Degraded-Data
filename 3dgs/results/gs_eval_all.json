@@ -1,0 +1,323 @@
+{
+  "chair": {
+    "E0_C0_I0_P0": {
+      "run_dir": "/home/flx/3dgs/results/nerf_synthetic/chair/E0_C0_I0_P0",
+      "metrics": {
+        "clean": {
+          "experiment_name": "chair",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 32.142,
+            "ssim": 0.9842,
+            "lpips": 0.0342
+          }
+        }
+      }
+    },
+    "E1_C1_I0_P0": {
+      "run_dir": "/home/flx/3dgs/results/nerf_synthetic/chair/E1_C1_I0_P0",
+      "metrics": {
+        "clean": {
+          "experiment_name": "chair",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 31.992,
+            "ssim": 0.9834,
+            "lpips": 0.0347
+          }
+        }
+      }
+    },
+    "E2_C2_I0_P0": {
+      "run_dir": "/home/flx/3dgs/results/nerf_synthetic/chair/E2_C2_I0_P0",
+      "metrics": {
+        "clean": {
+          "experiment_name": "chair",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 32.028,
+            "ssim": 0.9837,
+            "lpips": 0.0354
+          }
+        }
+      }
+    },
+    "E3_C0_I1_P0": {
+      "run_dir": "/home/flx/3dgs/results/nerf_synthetic/chair/E3_C0_I1_P0",
+      "metrics": {
+        "clean": {
+          "experiment_name": "chair",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 31.7,
+            "ssim": 0.9798,
+            "lpips": 0.0384
+          }
+        }
+      }
+    },
+    "E4_C0_I2_P0": {
+      "run_dir": "/home/flx/3dgs/results/nerf_synthetic/chair/E4_C0_I2_P0",
+      "metrics": {
+        "clean": {
+          "experiment_name": "chair",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 30.491,
+            "ssim": 0.9641,
+            "lpips": 0.0546
+          }
+        }
+      }
+    },
+    "E5_C0_I0_P1": {
+      "run_dir": "/home/flx/3dgs/results/nerf_synthetic/chair/E5_C0_I0_P1",
+      "metrics": {
+        "clean": {
+          "experiment_name": "chair",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 22.624,
+            "ssim": 0.8832,
+            "lpips": 0.075
+          }
+        }
+      }
+    },
+    "E6_C0_I0_P2": {
+      "run_dir": "/home/flx/3dgs/results/nerf_synthetic/chair/E6_C0_I0_P2",
+      "metrics": {
+        "clean": {
+          "experiment_name": "chair",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 17.708,
+            "ssim": 0.828,
+            "lpips": 0.1269
+          }
+        }
+      }
+    },
+    "E7_C1_I1_P0": {
+      "run_dir": "/home/flx/3dgs/results/nerf_synthetic/chair/E7_C1_I1_P0",
+      "metrics": {
+        "clean": {
+          "experiment_name": "chair",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 31.519,
+            "ssim": 0.9798,
+            "lpips": 0.0372
+          }
+        }
+      }
+    },
+    "E8_C0_I1_P1": {
+      "run_dir": "/home/flx/3dgs/results/nerf_synthetic/chair/E8_C0_I1_P1",
+      "metrics": {
+        "clean": {
+          "experiment_name": "chair",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 23.202,
+            "ssim": 0.8914,
+            "lpips": 0.0723
+          }
+        }
+      }
+    }
+  },
+  "drums": {
+    "E0_C0_I0_P0": {
+      "run_dir": "/home/flx/3dgs/results/nerf_synthetic/drums/E0_C0_I0_P0",
+      "metrics": {
+        "clean": {
+          "experiment_name": "drums",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 25.776,
+            "ssim": 0.9481,
+            "lpips": 0.0814
+          }
+        }
+      }
+    },
+    "E1_C1_I0_P0": {
+      "run_dir": "/home/flx/3dgs/results/nerf_synthetic/drums/E1_C1_I0_P0",
+      "metrics": {
+        "clean": {
+          "experiment_name": "drums",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 25.568,
+            "ssim": 0.9456,
+            "lpips": 0.0818
+          }
+        }
+      }
+    },
+    "E2_C2_I0_P0": {
+      "run_dir": "/home/flx/3dgs/results/nerf_synthetic/drums/E2_C2_I0_P0",
+      "metrics": {
+        "clean": {
+          "experiment_name": "drums",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 25.862,
+            "ssim": 0.9481,
+            "lpips": 0.0797
+          }
+        }
+      }
+    },
+    "E3_C0_I1_P0": {
+      "run_dir": "/home/flx/3dgs/results/nerf_synthetic/drums/E3_C0_I1_P0",
+      "metrics": {
+        "clean": {
+          "experiment_name": "drums",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 25.784,
+            "ssim": 0.947,
+            "lpips": 0.084
+          }
+        }
+      }
+    },
+    "E4_C0_I2_P0": {
+      "run_dir": "/home/flx/3dgs/results/nerf_synthetic/drums/E4_C0_I2_P0",
+      "metrics": {
+        "clean": {
+          "experiment_name": "drums",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 25.583,
+            "ssim": 0.9418,
+            "lpips": 0.0912
+          }
+        }
+      }
+    },
+    "E5_C0_I0_P1": {
+      "run_dir": "/home/flx/3dgs/results/nerf_synthetic/drums/E5_C0_I0_P1",
+      "metrics": {
+        "clean": {
+          "experiment_name": "drums",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 20.561,
+            "ssim": 0.8568,
+            "lpips": 0.12
+          }
+        }
+      }
+    },
+    "E6_C0_I0_P2": {
+      "run_dir": "/home/flx/3dgs/results/nerf_synthetic/drums/E6_C0_I0_P2",
+      "metrics": {
+        "clean": {
+          "experiment_name": "drums",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 16.427,
+            "ssim": 0.7779,
+            "lpips": 0.1879
+          }
+        }
+      }
+    },
+    "E7_C1_I1_P0": {
+      "run_dir": "/home/flx/3dgs/results/nerf_synthetic/drums/E7_C1_I1_P0",
+      "metrics": {
+        "clean": {
+          "experiment_name": "drums",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 25.595,
+            "ssim": 0.9449,
+            "lpips": 0.0831
+          }
+        }
+      }
+    },
+    "E8_C0_I1_P1": {
+      "run_dir": "/home/flx/3dgs/results/nerf_synthetic/drums/E8_C0_I1_P1",
+      "metrics": {
+        "clean": {
+          "experiment_name": "drums",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 20.772,
+            "ssim": 0.8592,
+            "lpips": 0.1178
+          }
+        }
+      }
+    }
+  },
+  "truck": {
+    "T0": {
+      "run_dir": "/home/flx/3dgs/results/truck/T0",
+      "metrics": {
+        "clean": {
+          "experiment_name": "truck",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 9.863,
+            "ssim": 0.377,
+            "lpips": 0.711
+          }
+        }
+      }
+    },
+    "T1": {
+      "run_dir": "/home/flx/3dgs/results/truck/T1",
+      "metrics": {
+        "clean": {
+          "experiment_name": "truck",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 9.567,
+            "ssim": 0.3581,
+            "lpips": 0.7313
+          }
+        }
+      }
+    },
+    "T2": {
+      "run_dir": "/home/flx/3dgs/results/truck/T2",
+      "metrics": {
+        "clean": {
+          "experiment_name": "truck",
+          "method_name": "3dgs",
+          "checkpoint": "",
+          "results": {
+            "psnr": 9.793,
+            "ssim": 0.3492,
+            "lpips": 0.7185
+          }
+        }
+      }
+    }
+  }
+}

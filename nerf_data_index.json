@@ -1,0 +1,355 @@
+{
+  "root": "/home/flx/nerf_data",
+  "num_entries": 45,
+  "entries": [
+    {
+      "dataset": "llff",
+      "scene": "fern",
+      "experiment": "E0_C0_I0_P0",
+      "data_dir": "llff_degraded/fern/E0_C0_I0_P0/fern",
+      "type": "images",
+      "images_dir": "llff_degraded/fern/E0_C0_I0_P0/fern/images"
+    },
+    {
+      "dataset": "llff",
+      "scene": "fern",
+      "experiment": "E1_C1_I0_P0",
+      "data_dir": "llff_degraded/fern/E1_C1_I0_P0/fern",
+      "type": "images",
+      "images_dir": "llff_degraded/fern/E1_C1_I0_P0/fern/images"
+    },
+    {
+      "dataset": "llff",
+      "scene": "fern",
+      "experiment": "E2_C2_I0_P0",
+      "data_dir": "llff_degraded/fern/E2_C2_I0_P0/fern",
+      "type": "images",
+      "images_dir": "llff_degraded/fern/E2_C2_I0_P0/fern/images"
+    },
+    {
+      "dataset": "llff",
+      "scene": "fern",
+      "experiment": "E3_C0_I1_P0",
+      "data_dir": "llff_degraded/fern/E3_C0_I1_P0/fern",
+      "type": "images",
+      "images_dir": "llff_degraded/fern/E3_C0_I1_P0/fern/images"
+    },
+    {
+      "dataset": "llff",
+      "scene": "fern",
+      "experiment": "E4_C0_I2_P0",
+      "data_dir": "llff_degraded/fern/E4_C0_I2_P0/fern",
+      "type": "images",
+      "images_dir": "llff_degraded/fern/E4_C0_I2_P0/fern/images"
+    },
+    {
+      "dataset": "llff",
+      "scene": "fern",
+      "experiment": "E5_C0_I0_P1",
+      "data_dir": "llff_degraded/fern/E5_C0_I0_P1/fern",
+      "type": "images",
+      "images_dir": "llff_degraded/fern/E5_C0_I0_P1/fern/images"
+    },
+    {
+      "dataset": "llff",
+      "scene": "fern",
+      "experiment": "E6_C0_I0_P2",
+      "data_dir": "llff_degraded/fern/E6_C0_I0_P2/fern",
+      "type": "images",
+      "images_dir": "llff_degraded/fern/E6_C0_I0_P2/fern/images"
+    },
+    {
+      "dataset": "llff",
+      "scene": "fern",
+      "experiment": "E7_C1_I1_P0",
+      "data_dir": "llff_degraded/fern/E7_C1_I1_P0/fern",
+      "type": "images",
+      "images_dir": "llff_degraded/fern/E7_C1_I1_P0/fern/images"
+    },
+    {
+      "dataset": "llff",
+      "scene": "fern",
+      "experiment": "E8_C0_I1_P1",
+      "data_dir": "llff_degraded/fern/E8_C0_I1_P1/fern",
+      "type": "images",
+      "images_dir": "llff_degraded/fern/E8_C0_I1_P1/fern/images"
+    },
+    {
+      "dataset": "llff",
+      "scene": "room",
+      "experiment": "E0_C0_I0_P0",
+      "data_dir": "llff_degraded/room/E0_C0_I0_P0/room",
+      "type": "images",
+      "images_dir": "llff_degraded/room/E0_C0_I0_P0/room/images"
+    },
+    {
+      "dataset": "llff",
+      "scene": "room",
+      "experiment": "E1_C1_I0_P0",
+      "data_dir": "llff_degraded/room/E1_C1_I0_P0/room",
+      "type": "images",
+      "images_dir": "llff_degraded/room/E1_C1_I0_P0/room/images"
+    },
+    {
+      "dataset": "llff",
+      "scene": "room",
+      "experiment": "E2_C2_I0_P0",
+      "data_dir": "llff_degraded/room/E2_C2_I0_P0/room",
+      "type": "images",
+      "images_dir": "llff_degraded/room/E2_C2_I0_P0/room/images"
+    },
+    {
+      "dataset": "llff",
+      "scene": "room",
+      "experiment": "E3_C0_I1_P0",
+      "data_dir": "llff_degraded/room/E3_C0_I1_P0/room",
+      "type": "images",
+      "images_dir": "llff_degraded/room/E3_C0_I1_P0/room/images"
+    },
+    {
+      "dataset": "llff",
+      "scene": "room",
+      "experiment": "E4_C0_I2_P0",
+      "data_dir": "llff_degraded/room/E4_C0_I2_P0/room",
+      "type": "images",
+      "images_dir": "llff_degraded/room/E4_C0_I2_P0/room/images"
+    },
+    {
+      "dataset": "llff",
+      "scene": "room",
+      "experiment": "E5_C0_I0_P1",
+      "data_dir": "llff_degraded/room/E5_C0_I0_P1/room",
+      "type": "images",
+      "images_dir": "llff_degraded/room/E5_C0_I0_P1/room/images"
+    },
+    {
+      "dataset": "llff",
+      "scene": "room",
+      "experiment": "E6_C0_I0_P2",
+      "data_dir": "llff_degraded/room/E6_C0_I0_P2/room",
+      "type": "images",
+      "images_dir": "llff_degraded/room/E6_C0_I0_P2/room/images"
+    },
+    {
+      "dataset": "llff",
+      "scene": "room",
+      "experiment": "E7_C1_I1_P0",
+      "data_dir": "llff_degraded/room/E7_C1_I1_P0/room",
+      "type": "images",
+      "images_dir": "llff_degraded/room/E7_C1_I1_P0/room/images"
+    },
+    {
+      "dataset": "llff",
+      "scene": "room",
+      "experiment": "E8_C0_I1_P1",
+      "data_dir": "llff_degraded/room/E8_C0_I1_P1/room",
+      "type": "images",
+      "images_dir": "llff_degraded/room/E8_C0_I1_P1/room/images"
+    },
+    {
+      "dataset": "nerf_synthetic",
+      "scene": "chair",
+      "experiment": "E0_C0_I0_P0",
+      "data_dir": "nerf_synthetic_degraded/chair/E0_C0_I0_P0/chair",
+      "type": "blender",
+      "train_dir": "nerf_synthetic_degraded/chair/E0_C0_I0_P0/chair/train",
+      "val_dir": "nerf_synthetic_degraded/chair/E0_C0_I0_P0/chair/val",
+      "test_dir": "nerf_synthetic_degraded/chair/E0_C0_I0_P0/chair/test"
+    },
+    {
+      "dataset": "nerf_synthetic",
+      "scene": "chair",
+      "experiment": "E1_C1_I0_P0",
+      "data_dir": "nerf_synthetic_degraded/chair/E1_C1_I0_P0/chair",
+      "type": "blender",
+      "train_dir": "nerf_synthetic_degraded/chair/E1_C1_I0_P0/chair/train",
+      "val_dir": "nerf_synthetic_degraded/chair/E1_C1_I0_P0/chair/val",
+      "test_dir": "nerf_synthetic_degraded/chair/E1_C1_I0_P0/chair/test"
+    },
+    {
+      "dataset": "nerf_synthetic",
+      "scene": "chair",
+      "experiment": "E2_C2_I0_P0",
+      "data_dir": "nerf_synthetic_degraded/chair/E2_C2_I0_P0/chair",
+      "type": "blender",
+      "train_dir": "nerf_synthetic_degraded/chair/E2_C2_I0_P0/chair/train",
+      "val_dir": "nerf_synthetic_degraded/chair/E2_C2_I0_P0/chair/val",
+      "test_dir": "nerf_synthetic_degraded/chair/E2_C2_I0_P0/chair/test"
+    },
+    {
+      "dataset": "nerf_synthetic",
+      "scene": "chair",
+      "experiment": "E3_C0_I1_P0",
+      "data_dir": "nerf_synthetic_degraded/chair/E3_C0_I1_P0/chair",
+      "type": "blender",
+      "train_dir": "nerf_synthetic_degraded/chair/E3_C0_I1_P0/chair/train",
+      "val_dir": "nerf_synthetic_degraded/chair/E3_C0_I1_P0/chair/val",
+      "test_dir": "nerf_synthetic_degraded/chair/E3_C0_I1_P0/chair/test"
+    },
+    {
+      "dataset": "nerf_synthetic",
+      "scene": "chair",
+      "experiment": "E4_C0_I2_P0",
+      "data_dir": "nerf_synthetic_degraded/chair/E4_C0_I2_P0/chair",
+      "type": "blender",
+      "train_dir": "nerf_synthetic_degraded/chair/E4_C0_I2_P0/chair/train",
+      "val_dir": "nerf_synthetic_degraded/chair/E4_C0_I2_P0/chair/val",
+      "test_dir": "nerf_synthetic_degraded/chair/E4_C0_I2_P0/chair/test"
+    },
+    {
+      "dataset": "nerf_synthetic",
+      "scene": "chair",
+      "experiment": "E5_C0_I0_P1",
+      "data_dir": "nerf_synthetic_degraded/chair/E5_C0_I0_P1/chair",
+      "type": "blender",
+      "train_dir": "nerf_synthetic_degraded/chair/E5_C0_I0_P1/chair/train",
+      "val_dir": "nerf_synthetic_degraded/chair/E5_C0_I0_P1/chair/val",
+      "test_dir": "nerf_synthetic_degraded/chair/E5_C0_I0_P1/chair/test"
+    },
+    {
+      "dataset": "nerf_synthetic",
+      "scene": "chair",
+      "experiment": "E6_C0_I0_P2",
+      "data_dir": "nerf_synthetic_degraded/chair/E6_C0_I0_P2/chair",
+      "type": "blender",
+      "train_dir": "nerf_synthetic_degraded/chair/E6_C0_I0_P2/chair/train",
+      "val_dir": "nerf_synthetic_degraded/chair/E6_C0_I0_P2/chair/val",
+      "test_dir": "nerf_synthetic_degraded/chair/E6_C0_I0_P2/chair/test"
+    },
+    {
+      "dataset": "nerf_synthetic",
+      "scene": "chair",
+      "experiment": "E7_C1_I1_P0",
+      "data_dir": "nerf_synthetic_degraded/chair/E7_C1_I1_P0/chair",
+      "type": "blender",
+      "train_dir": "nerf_synthetic_degraded/chair/E7_C1_I1_P0/chair/train",
+      "val_dir": "nerf_synthetic_degraded/chair/E7_C1_I1_P0/chair/val",
+      "test_dir": "nerf_synthetic_degraded/chair/E7_C1_I1_P0/chair/test"
+    },
+    {
+      "dataset": "nerf_synthetic",
+      "scene": "chair",
+      "experiment": "E8_C0_I1_P1",
+      "data_dir": "nerf_synthetic_degraded/chair/E8_C0_I1_P1/chair",
+      "type": "blender",
+      "train_dir": "nerf_synthetic_degraded/chair/E8_C0_I1_P1/chair/train",
+      "val_dir": "nerf_synthetic_degraded/chair/E8_C0_I1_P1/chair/val",
+      "test_dir": "nerf_synthetic_degraded/chair/E8_C0_I1_P1/chair/test"
+    },
+    {
+      "dataset": "nerf_synthetic",
+      "scene": "drums",
+      "experiment": "E0_C0_I0_P0",
+      "data_dir": "nerf_synthetic_degraded/drums/E0_C0_I0_P0/drums",
+      "type": "blender",
+      "train_dir": "nerf_synthetic_degraded/drums/E0_C0_I0_P0/drums/train",
+      "val_dir": "nerf_synthetic_degraded/drums/E0_C0_I0_P0/drums/val",
+      "test_dir": "nerf_synthetic_degraded/drums/E0_C0_I0_P0/drums/test"
+    },
+    {
+      "dataset": "nerf_synthetic",
+      "scene": "drums",
+      "experiment": "E1_C1_I0_P0",
+      "data_dir": "nerf_synthetic_degraded/drums/E1_C1_I0_P0/drums",
+      "type": "blender",
+      "train_dir": "nerf_synthetic_degraded/drums/E1_C1_I0_P0/drums/train",
+      "val_dir": "nerf_synthetic_degraded/drums/E1_C1_I0_P0/drums/val",
+      "test_dir": "nerf_synthetic_degraded/drums/E1_C1_I0_P0/drums/test"
+    },
+    {
+      "dataset": "nerf_synthetic",
+      "scene": "drums",
+      "experiment": "E2_C2_I0_P0",
+      "data_dir": "nerf_synthetic_degraded/drums/E2_C2_I0_P0/drums",
+      "type": "blender",
+      "train_dir": "nerf_synthetic_degraded/drums/E2_C2_I0_P0/drums/train",
+      "val_dir": "nerf_synthetic_degraded/drums/E2_C2_I0_P0/drums/val",
+      "test_dir": "nerf_synthetic_degraded/drums/E2_C2_I0_P0/drums/test"
+    },
+    {
+      "dataset": "nerf_synthetic",
+      "scene": "drums",
+      "experiment": "E3_C0_I1_P0",
+      "data_dir": "nerf_synthetic_degraded/drums/E3_C0_I1_P0/drums",
+      "type": "blender",
+      "train_dir": "nerf_synthetic_degraded/drums/E3_C0_I1_P0/drums/train",
+      "val_dir": "nerf_synthetic_degraded/drums/E3_C0_I1_P0/drums/val",
+      "test_dir": "nerf_synthetic_degraded/drums/E3_C0_I1_P0/drums/test"
+    },
+    {
+      "dataset": "nerf_synthetic",
+      "scene": "drums",
+      "experiment": "E4_C0_I2_P0",
+      "data_dir": "nerf_synthetic_degraded/drums/E4_C0_I2_P0/drums",
+      "type": "blender",
+      "train_dir": "nerf_synthetic_degraded/drums/E4_C0_I2_P0/drums/train",
+      "val_dir": "nerf_synthetic_degraded/drums/E4_C0_I2_P0/drums/val",
+      "test_dir": "nerf_synthetic_degraded/drums/E4_C0_I2_P0/drums/test"
+    },
+    {
+      "dataset": "nerf_synthetic",
+      "scene": "drums",
+      "experiment": "E5_C0_I0_P1",
+      "data_dir": "nerf_synthetic_degraded/drums/E5_C0_I0_P1/drums",
+      "type": "blender",
+      "train_dir": "nerf_synthetic_degraded/drums/E5_C0_I0_P1/drums/train",
+      "val_dir": "nerf_synthetic_degraded/drums/E5_C0_I0_P1/drums/val",
+      "test_dir": "nerf_synthetic_degraded/drums/E5_C0_I0_P1/drums/test"
+    },
+    {
+      "dataset": "nerf_synthetic",
+      "scene": "drums",
+      "experiment": "E6_C0_I0_P2",
+      "data_dir": "nerf_synthetic_degraded/drums/E6_C0_I0_P2/drums",
+      "type": "blender",
+      "train_dir": "nerf_synthetic_degraded/drums/E6_C0_I0_P2/drums/train",
+      "val_dir": "nerf_synthetic_degraded/drums/E6_C0_I0_P2/drums/val",
+      "test_dir": "nerf_synthetic_degraded/drums/E6_C0_I0_P2/drums/test"
+    },
+    {
+      "dataset": "nerf_synthetic",
+      "scene": "drums",
+      "experiment": "E7_C1_I1_P0",
+      "data_dir": "nerf_synthetic_degraded/drums/E7_C1_I1_P0/drums",
+      "type": "blender",
+      "train_dir": "nerf_synthetic_degraded/drums/E7_C1_I1_P0/drums/train",
+      "val_dir": "nerf_synthetic_degraded/drums/E7_C1_I1_P0/drums/val",
+      "test_dir": "nerf_synthetic_degraded/drums/E7_C1_I1_P0/drums/test"
+    },
+    {
+      "dataset": "nerf_synthetic",
+      "scene": "drums",
+      "experiment": "E8_C0_I1_P1",
+      "data_dir": "nerf_synthetic_degraded/drums/E8_C0_I1_P1/drums",
+      "type": "blender",
+      "train_dir": "nerf_synthetic_degraded/drums/E8_C0_I1_P1/drums/train",
+      "val_dir": "nerf_synthetic_degraded/drums/E8_C0_I1_P1/drums/val",
+      "test_dir": "nerf_synthetic_degraded/drums/E8_C0_I1_P1/drums/test"
+    },
+    {
+      "dataset": "tanks_degraded",
+      "scene": "Truck",
+      "experiment": "T0",
+      "data_dir": "tanks_degraded/T0/Truck",
+      "notes": "Coverage C0, Image I0, Pose P0"
+    },
+    {
+      "dataset": "tanks_degraded",
+      "scene": "Truck",
+      "experiment": "T1",
+      "data_dir": "tanks_degraded/T1/Truck",
+      "notes": "Coverage C1, Image I1, Pose P1"
+    },
+    {
+      "dataset": "tanks_degraded",
+      "scene": "Truck",
+      "experiment": "T2",
+      "data_dir": "tanks_degraded/T2/Truck",
+      "notes": "Coverage C2, Image I2, Pose P2"
+    }
+
+
+
+
+  ]
+}

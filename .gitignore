@@ -1,0 +1,59 @@
+# 个人配置 / 垃圾缓存（完全不要进 repo）
+.cache/
+.config/
+.local/
+.nv/
+.bash_history
+.bash_logout
+.bashrc
+.lesshst
+.motd_shown
+.profile
+.sudo_as_admin_successful
+
+# Python 虚拟环境（nerfstudio 环境）
+/nerf/
+
+# 上游第三方仓库（直接自己 clone 就行）
+/gaussian-splatting/
+
+# 数据集 & 训练输出（大文件，可重新生成）
+/nerf_data/
+/nerf_projects/
+/ns_ready/
+/outputs/
+
+# 3DGS 的大型结果和 symlink（只在本地用）
+3dgs/results/truck/
+3dgs/results/nerf_synthetic/chair/
+3dgs/results/nerf_synthetic/drums/
+/3dgs/gaussian-splatting
+
+# Python 编译文件
+__pycache__/
+*.pyc
+
+# ---- local env ----
+nerf/nsenv/
+
+# ---- datasets & big experiment folders ----
+nerf_data/
+nerf_projects/
+outputs/
+ns_ready/
+
+# 3DGS heavy outputs (只保留汇总文件)
+3dgs/results/truck/
+3dgs/results/nerf_synthetic/chair/
+3dgs/results/nerf_synthetic/drums/
+
+# 不把官方 gaussian-splatting 放进仓库
+gaussian-splatting/
+3dgs/gaussian-splatting/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Misc
+*.log
